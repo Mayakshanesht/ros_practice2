@@ -1,0 +1,6 @@
+devel_space: /home/mayur/my_workspace/devel
+install: false
+install_space: /home/mayur/my_workspace/install
+profile: default
+source_space: /home/mayur/my_workspace/src
+workspace: /home/mayur/my_workspace
